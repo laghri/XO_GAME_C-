@@ -1,0 +1,5 @@
+﻿  X_O_Game.cpp
+C:\Users\HP\Desktop\TP nemerique\X_O_Game\X_O_Game.cpp(21,19): warning C4838: la conversion de 'int' en 'SHORT' requiert une conversion restrictive
+C:\Users\HP\Desktop\TP nemerique\X_O_Game\X_O_Game.cpp(21,21): warning C4838: la conversion de 'int' en 'SHORT' requiert une conversion restrictive
+C:\Users\HP\Desktop\TP nemerique\X_O_Game\X_O_Game.cpp(239): warning C4715: 'Game' : les chemins de contrôle ne retournent pas tous une valeur
+  X_O_Game.vcxproj -> C:\Users\HP\Desktop\TP nemerique\X_O_Game\x64\Debug\X_O_Game.exe
